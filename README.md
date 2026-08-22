@@ -28,6 +28,15 @@
 
 > **개인 프로젝트** · 기획, UI/UX 디자인, React Native 앱, Node.js 백엔드, iOS·Android 심사와 배포 전 과정을 직접 담당했습니다.
 
+## Screens
+
+<p align="center">
+  <img src="./docs/screens/appointment.png" width="22%" alt="지금이니 약속 설정 화면" />
+  <img src="./docs/screens/routes.png" width="22%" alt="지금이니 대중교통 경로 선택 화면" />
+  <img src="./docs/screens/home.png" width="22%" alt="지금이니 출발 카운트다운 홈 화면" />
+  <img src="./docs/screens/departure-camera.png" width="22%" alt="지금이니 신발 사진 출발 인증 화면" />
+</p>
+
 ## ✨ 핵심 기능
 
 ### 1) 약속 생성/수정
