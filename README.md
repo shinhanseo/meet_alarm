@@ -1,11 +1,32 @@
-# 🐻 지금이니 (meet-alarm)
+<p align="center">
+  <img src="./assets/bears/right_now_icon.png" width="120" alt="지금이니 앱 아이콘" />
+</p>
 
-> **약속 시간에 맞춰 ‘언제 나가야 하는지’를 알려주고, 출발 직전 신발 사진 인증까지 도와주는 Expo 기반 모바일 앱**
+<h1 align="center">지금이니</h1>
 
-`지금이니`는 단순 일정 기록 앱이 아니라, **실제 출발 행동**을 유도하는 데 초점을 둔 앱입니다.  
-약속 생성 → 경로 선택 → 출발 추천 시각 계산 → 로컬 알림 → 신발 사진 인증까지 하나의 흐름으로 연결됩니다.
+<p align="center">
+  <strong>약속 시간에 맞춰 계산한 출발 시각을 실제 출발 행동까지 연결하는 모바일 앱</strong>
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/kr/app/id6759585246"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.imkara1.meetalarm"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+  <a href="https://github.com/shinhanseo/meet_alarm_backend"><img src="https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Backend Repository" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
 ---
+
+## Overview
+
+`지금이니`는 단순 일정 기록이 아니라 **사용자가 제시간에 집을 나서도록 돕는 것**에 초점을 둡니다. 약속 생성 → 대중교통 경로 선택 → 출발 시각 계산 → 로컬 알림 → 신발 사진 인증을 하나의 행동 흐름으로 연결했습니다.
+
+> **개인 프로젝트** · 기획, UI/UX 디자인, React Native 앱, Node.js 백엔드, iOS·Android 심사와 배포 전 과정을 직접 담당했습니다.
 
 ## ✨ 핵심 기능
 
